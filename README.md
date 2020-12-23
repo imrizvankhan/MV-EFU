@@ -6,3 +6,5 @@ our work where "ILL-ILLUMINATION is ENHANCED IN-THE-WILD MULTIVIEW BACKLIT IMAGE
 #The MATLAB code relies on: #Image rectification #MaxFlow v3.01 library (http://vision.csd.uwo.ca/code/) #VLFEAT library (www.vlfeat.org/)
 #Learning-based Backlit Image Restoration project.
 #Scale invariatn feature transform (SIFT Descriptor )
+#Multi Exposure fusion for large exposures
+
